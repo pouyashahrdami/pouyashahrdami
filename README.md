@@ -23,7 +23,7 @@
 
 - 👨‍🎓:I'm a  Software Engineering Student<img src="https://bayanbox.ir/view/1353559592827697052/programmer.gif" width="30"> 
 
-- 🔒: I’m currently learning cyber Secuirty
+- 🔒: I’m currently learning python
 
 - ⭐: love learning
 
