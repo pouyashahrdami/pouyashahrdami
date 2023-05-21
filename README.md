@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-- 👨‍🎓:I'm a Senior Software Engineering Student<img src="https://bayanbox.ir/view/1353559592827697052/programmer.gif" width="30"> 
+- 👨‍🎓:I'm a  Software Engineering Student<img src="https://bayanbox.ir/view/1353559592827697052/programmer.gif" width="30"> 
 
 - 🔒: I’m currently learning cyber Secuirty
 
