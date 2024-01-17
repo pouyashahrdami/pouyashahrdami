@@ -23,11 +23,11 @@
 
 - 👨‍🎓:I'm a  Software Engineering Student
 
-- 🔒: I’m currently learning python
+- 🔒: I’m currently learning and have lots of works To do  
 
 - ⭐: love learning
 
-- 👨‍💼: working ....
+- 👨‍💼: working .... 
 
 ---
 
