@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/pouya-shahrdami-9aa42b303/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,3 +42,11 @@
 ### :telephone: how to reach me :
 
  :email: email : <a href ="mailto:pouyashahrdami@gmail.com">pooyashahrdami@gmail.com</a>
+
+### 📕: quick Summery 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pouyashahrdami" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyashahrdami&layout=compact&langs_count=8&card_width=320" />
+</a>
