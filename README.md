@@ -44,9 +44,9 @@
  :email: email : <a href ="mailto:pouyashahrdami@gmail.com">pooyashahrdami@gmail.com</a>
 
 ### 📕: quick Summery 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pouyashahrdami" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyashahrdami&layout=compact&langs_count=8&card_width=320" />
 </a>
