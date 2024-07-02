@@ -18,7 +18,7 @@
   </div>
   <br>
   
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
 
 ### :woman_technologist: About Me :
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -49,4 +49,5 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***quick Summery***
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyashahrdami&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouyashahrdami&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="pouya" /></p>
+<img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
