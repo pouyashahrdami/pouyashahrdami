@@ -24,13 +24,13 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 👨‍🎓:I'm a  Software Engineering Student
+- 👨‍🎓:I'm a  computer programming Student
 
 - 🔒: I'm currently Studying At Durham College 
 
 - ⭐: love learning
 
-- 👨‍💼: working .... 
+- 👨‍💼: working  .... 
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -45,7 +45,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp; <br>
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress&logoColor=FFA518)&nbsp;
+![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=4483BE)&nbsp;
+![sqlserver](https://img.shields.io/badge/-sqlserver-05122A?style=flat&logo=sqlserver&logoColor=FFA518)&nbsp; <br>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***quick Summery***
