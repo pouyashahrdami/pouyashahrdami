@@ -11,7 +11,7 @@
   <br>
    <img src="https://komarev.com/ghpvc/?username=pouyashahrdami&label=Profile%20views&color=0e75b6&style=flat" alt="pouya shahrdami" />
 <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-%20JS-blue" />
+  <img src="https://img.shields.io/badge/Focus-%20career-blue" />
   <img src="https://img.shields.io/badge/Lives-canada%20-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20persian-blue" />
 </h1>
