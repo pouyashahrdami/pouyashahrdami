@@ -24,7 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
 
-### 🛠️ Languages and Tools
 
 ### 🛠️ Languages and Tools
 
