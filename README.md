@@ -1,182 +1,182 @@
-<h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">🚀 Software Developer | 💻 Open Source Enthusiast | 📚 Lifelong Learner</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=🚀+Welcome+to+my+Digital+Universe!;💻+Full-Stack+Developer+%7C+AI+Enthusiast;🔥+Building+the+Future+One+Line+at+a+Time;🌟+Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/pouyashahrdami">
-    <img src="https://komarev.com/ghpvc/?username=pouyashahrdami&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <br>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=pouyashahrdami&label=Profile%20Views&color=6366f1&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Profile Views" />
+
+  <!-- Dynamic Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pouyashahrdami.pouyashahrdami" alt="Visitors" />
+
+  <!-- Follower Counter -->
   <a href="https://github.com/pouyashahrdami?tab=followers">
-    <img src="https://img.shields.io/github/followers/pouyashahrdami?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/pouyashahrdami?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=22c55e" alt="GitHub Followers" />
   </a>
-</p>
 
-<img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
+  <!-- Stars Counter -->
+  <img src="https://img.shields.io/github/stars/pouyashahrdami?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="Total Stars" />
 
+<br><br>
+
+  <!-- Animated Wave -->
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" height="20" alt="Wave" />
+
+  <!-- 3D Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pouyashahrdami&theme=github-compact&hide_border=true&color=6366f1&line=22c55e&point=ffffff" width="100%" alt="Contribution Graph" />
+
+</div>
+
+### 🔥 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pouyashahrdami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouyashahrdami&theme=tokyonight&hide_border=true&background=0d1117&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" width="49%" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyashahrdami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" width="49%" alt="Most Used Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pouyashahrdami&theme=github_dark" width="49%" alt="Profile Details" />
+</div>
+
+### 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pouyashahrdami&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</div>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Resumi](https://resumi.ca)**, a platform to help people track their job posts.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 📝 I regularly write articles on **[Medium](https://medium.com/@pouyashahrdami)**.
-- 💬 Ask me about **software development, web technologies, or anything tech-related!**
-- 📫 How to reach me: **pooyashahrdami@gmail.com**
-- 📄 Know more about my professional journey on **[LinkedIn](https://www.linkedin.com/in/pouyashahrdami/)**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&width=940&lines=🚀+Currently+building+Resumi+-+AI-powered+job+tracking+platform;🔬+Exploring+cutting-edge+technologies+%7C+AI+%7C+Web3+%7C+Cloud+Computing;✍️+Sharing+knowledge+through+technical+blogging+and+open+source;💡+Always+learning,+always+innovating,+always+creating;🤝+Open+to+collaborations+and+meaningful+tech+discussions" alt="About Me" />
+</div>
+
+- 🔭 **Currently Working On:** [Resumi](https://resumi.ca) - AI-powered job application tracker
+- 🌱 **Learning & Exploring:** Advanced AI/ML, Cloud Architecture, DevOps, Blockchain
+- 📝 **Technical Writer:** Regular contributor to [Medium](https://medium.com/@pouyashahrdami)
+- 💬 **Tech Interests:** Full-stack development, AI integration, scalable systems, automation
+- 📫 **Contact:** pooyashahrdami@gmail.com
+- 🔗 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/pouyashahrdami/)
+- 🎯 **Mission:** Building technology that makes a positive impact on people's lives
 
 <img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
 
+### 🛠️ Tech Stack & Tools
 
-### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,csharp,php&theme=dark" alt="Programming Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,laravel&theme=dark" alt="Frameworks & Libraries" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap&theme=dark" alt="Frontend Technologies" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,nginx&theme=dark" alt="Cloud & DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark" alt="Databases" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode&theme=dark" alt="Tools & Platforms" />
+</div>
 
-<p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 5px;" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="margin: 5px;" />
-  </a>
-</p>
+### 📊 Coding Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pouyashahrdami&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Wakatime Stats" />
 
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pouyashahrdami&repo=Resumi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Featured Repository" />
+</div>
 
 <img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
 
+### 🎯 Current Focus
 
-### 📚 Latest Blog Posts
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=500&color=f59e0b&center=true&vCenter=true&width=940&lines=🔥+Building+AI-powered+solutions+for+job+seekers;🚀+Developing+scalable+web+applications;🌟+Exploring+the+intersection+of+AI+and+productivity;💡+Creating+tools+that+make+life+easier" alt="Current Focus" />
+</div>
 
-<!-- Replace with your Medium RSS feed or manually update -->
+### 📚 Featured Articles
+
+<div align="center">
+  <a href="https://medium.com/@pouyashahrdami">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+  <a href="https://dev.to/pouyashahrdami">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
+  </a>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+
 - [NeuraCrypt: A Privacy-Focused Desktop Chat Application](https://medium.com/@pouyashahrdami/neuracrypt-a-privacy-focused-desktop-chat-application-with-gemini-ai-integration-e03da3b1b450)
 - [Introducing the Resumi Chrome Extension](https://medium.com/@pouyashahrdami/introducing-the-resumi-chrome-extension-simplify-your-job-tracking-92362cb5ca6e)
 - [Meet Resumi — Job Application Tracker](https://medium.com/@pouyashahrdami/meet-resumi-job-application-tracker-b84139725d3f)
+<!-- BLOG-POST-LIST:END -->
+
+### 🎲 Fun Facts
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random Dev Quote" />
+</div>
+
+### 🎮 Coding Game Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pouyashahrdami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true&custom_title=Coding%20Activity" width="49%" alt="Coding Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyashahrdami&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" alt="Language Distribution" />
+</div>
 
 <img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
 
+### 🌐 Let's Connect!
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://dev.to/pouyashahrdami" target="blank">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+<div align="center">
+  <a href="https://linkedin.com/in/pouyashahrdami" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/pouyashahrdami" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://medium.com/@pouyashahrdami" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://medium.com/@pouyashahrdami" target="blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://dev.to/pouyashahrdami" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://www.youtube.com/@PBytes" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@PBytes" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</p>
+  <a href="mailto:pooyashahrdami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/pouyashahrdami" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-<img src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/main/line.gif" width="100%">
+### 📈 Profile Metrics
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pouyashahrdami&theme=github_dark" width="32%" alt="Most Commit Language" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pouyashahrdami&theme=onedark" alt="GitHub Trophies" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pouyashahrdami&theme=github_dark" width="32%" alt="Repos Per Language" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pouyashahrdami&theme=github_dark" width="32%" alt="Stats" />
+</div>
+
+### 🎉 Thanks for visiting!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=22c55e&center=true&vCenter=true&width=940&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🤝+Let's+collaborate+on+something+amazing!;💬+Have+a+question%3F+Feel+free+to+reach+out!;🚀+Together+we+can+build+the+future+of+technology!" alt="Footer Message" />
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a6213218b19c19c78/images/marquee-welcome.gif" width="100%" alt="Welcome Animation" />
+
+  <!-- Profile View Counter at bottom -->
+  <img src="https://profile-counter.glitch.me/pouyashahrdami/count.svg" alt="Profile View Counter" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
