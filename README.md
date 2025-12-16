@@ -17,15 +17,13 @@
 <h3 id="hi-there--im-aman">Yo its <a style="color:red" href="https://github.com/pouyashahrdami">Pouya</a> 🙂</h3>
 <br>
 <p>
-A Skilled Software Dev
-<br>
-So Busy Rn
-<br>  
-Many things on my plate to do
-<br>
-Love Open Source Contributor ❤️.
+Skilled software dev<br>
+Busy right now 🚀<br>
+Too many ideas, not enough time<br>
+Loves open source ❤️
 </p>
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3ZzQ2ZXFsaTgzZTh6eHdqdGlpcHZtNmJwNHp1eHNlZnQ2Z2kyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0p2k8ZiTKpeU/giphy.gif">
+
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZhdjBvYWR5aWtkaWY3MTZkZTFmcGZuNjVjeGo0ZmNtZTdvcnRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EpkVLqUj8BI7OV2/giphy.gif">
 <h3 id="-quick-facts">✨ Quick Facts</h3>
 <ul>
 <li>Python is named after Monty Python, not the snake.</li>
@@ -64,7 +62,12 @@ Love Open Source Contributor ❤️.
 <img src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&amp;logo=gitlab" alt="Gitlab">
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" alt="Ubuntu"></p>
 And More...
-
+<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <br><br>
 
