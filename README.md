@@ -3,7 +3,6 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=pouyashahrdami&label=Profile%20Views&color=6366f1&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Profile Views" />
 
-
   <!-- Follower Counter -->
   <a href="https://github.com/pouyashahrdami?tab=followers">
     <img src="https://img.shields.io/github/followers/pouyashahrdami?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=22c55e" alt="GitHub Followers" />
@@ -13,6 +12,7 @@
   <img src="https://img.shields.io/github/stars/pouyashahrdami?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b" alt="Total Stars" />
 
 <br><br>
+
 </div>
 <h3 id="hi-there--im-aman">Yo its <a style="color:red" href="https://github.com/pouyashahrdami">Pouya</a> 🙂</h3>
 <br>
@@ -64,9 +64,9 @@ Loves open source ❤️
 And More...
 <br><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pouyashahrdami/pouyashahrdami/output/github-snake.svg" />
 </picture>
 
 <br><br>
@@ -93,5 +93,3 @@ And More...
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-
