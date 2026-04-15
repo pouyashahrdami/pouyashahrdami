@@ -2,7 +2,7 @@
 
 [![Pouya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pouyashahrdami&bg_color=0d1117&color=57ff5a&line=1cd46c&point=00f51d&area=true&hide_border=true)](https://github.com/pouyashahrdami)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+<!-- ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg) -->
 
 <div align="center">
 
