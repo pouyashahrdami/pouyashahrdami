@@ -15,9 +15,9 @@
 <a href="https://github-pulse-topaz.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=aura">
-    <img alt="my github pulse — a living EKG of my commits"
-         src="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=paper">
+            srcset="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=aura&size=wide&w=full">
+    <img alt="my github pulse — a living EKG of my commits" width="100%"
+         src="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=paper&size=wide&w=full">
   </picture>
 </a>
 
