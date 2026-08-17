@@ -12,6 +12,17 @@
 
 <br/>
 
+<a href="https://github-pulse-topaz.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=aura">
+    <img alt="my github pulse — a living EKG of my commits"
+         src="https://github-pulse-topaz.vercel.app/u/pouyashahrdami?theme=paper">
+  </picture>
+</a>
+
+<br/>
+
 _last commit: probably 3am · currently: working...
 
 <br/>
